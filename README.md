@@ -17,6 +17,7 @@
 ### Presence Detection
 
 - iPhones
+- Android
 
 ### AV Equipment
 
@@ -49,8 +50,9 @@
 4. [Presence detection](presence-detection.md)
 5. [Lights & ceiling fans](lights-and-ceiling-fans.md)
 6. [Locks](locks.md)
-7. Thermostat
-8. AV / home theater
-9. Multi-room audi
-10. Voice Control
-11. [Roomba](roomba.md)
+7. [Thermostat](thermostat.md)
+8. [AV / home theater](av.md)
+9. [Multi-room audio](multi-room-audio.md)
+10. [Voice Control](voice-control.md)
+11. [Grocery List](grocery-list.md)
+12. [Roomba](roomba.md)
