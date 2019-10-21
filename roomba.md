@@ -1,0 +1,3 @@
+# DJ Roomba
+
+I have a [RooWifi](http://www.roowifi.com/) board to give my Roomba HTTPS endpoints I can call to make it either clean, dock, or check sensor state. There are [other solutions](https://community.home-assistant.io/t/add-wifi-to-an-older-roomba/23282/4) also. I will eventually wire the board to be within the Roomba and not just a hat on top. One nice thing about RooWifi is that you get HTTPS endpoints, so you don’t have to get deep into sending serial calls to an ESP 8266 board. I am going to try to follow the [guide in the thread](https://community.home-assistant.io/t/add-wifi-to-an-older-roomba/23282/9), but replace the ESP board with the RooWifi.
