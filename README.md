@@ -12,7 +12,7 @@
 
 ### Hub
 
-- Intel NUC (running [hass.io](https://www.home-assistant.io/hassio/))
+- Intel NUC (Ubuntu running [hass.io](https://www.home-assistant.io/hassio/))
 
 ### Presence Detection
 
@@ -57,3 +57,4 @@
 11. [Grocery List](grocery-list.md)
 12. [Roomba](roomba.md)
 13. [Phone Apps](phone-apps.md)
+14. [System Monitoring](system-monitoring.md)
